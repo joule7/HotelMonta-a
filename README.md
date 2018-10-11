@@ -1,2 +1,2 @@
-## A example of Responsive Web Design with Media Queries Media Queries
+## A example of Responsive Web Design with Media Queries
 GitHubPages -> https://joule7.github.io/MountainHotel/
